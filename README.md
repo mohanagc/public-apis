@@ -700,6 +700,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Open Data NHS Scotland](https://www.opendata.nhs.scot) | Medical reference data and statistics by Public Health Scotland | No | Yes | Unknown |
 | [Open Disease](https://disease.sh/) | API for Current cases and more stuff about COVID-19 and Influenza | No | Yes | Yes |
 | [Quarantine](https://quarantine.country/coronavirus/api/) | Coronavirus API with free COVID-19 live updates | No | Yes | Yes |
+| [THC Open Mindfulness Resources](https://api.theholisticcare.com/docs) | Free, read-only mindfulness resources and research metadata | No | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 ### Jobs
